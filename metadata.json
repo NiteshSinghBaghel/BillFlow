@@ -1,0 +1,6 @@
+{
+  "name": "BillFlow - Business Billing & WhatsApp Invoicing",
+  "description": "Simple billing and invoicing system for business owners to generate GST invoices, share via WhatsApp, export PDFs, and track sales and payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
